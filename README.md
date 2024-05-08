@@ -4,9 +4,13 @@ Implement AI-driven reporting tools that leverage LLM’s  like AWS– Anthropic
 ## Tools Used
 
 Amazon S3
+
 Amazon Bedrock Knowledge Base
+
 LLM Model - anthropic.claude-3-sonnet
+
 Lambda functions
+
 Libraries - boto3 client, 
 
 
